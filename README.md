@@ -1,4 +1,4 @@
-# Arihant-Crash-Course
+# Arihant-Crash-Course-40-Day-JEE
 Arihant 40 days crash course books for PCM JEE
 
 
